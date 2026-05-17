@@ -1,0 +1,3 @@
+python-telegram-bot==21.6
+redis==5.0.8
+twilio==9.2.3
